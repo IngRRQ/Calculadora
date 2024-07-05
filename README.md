@@ -1,10 +1,10 @@
-## Integrantes del Proyecto:
-### Beatriz Maldonado
-### Sammy Maldonado
-### Felipe Martinez
-### Carolina Galiachi
-### Ricardo Ramones
-##
+
+## Integrantes
+- Beatriz Maldonado
+- Sammy Maldonado
+- Felipe Martinez
+- Carolina Galiachi
+- Ricardo Ramones
 
 ## Tecnologías utilizadas
 
@@ -13,7 +13,7 @@
 ### JavaScript
 ### BootStrap
 ### JQuery
-##
+
 
 ## Descripción del proyecto
 ### Para ejecutar la calculadora web, simplemente abre el archivo `index.html` en tu navegador web preferido. 
