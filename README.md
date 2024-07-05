@@ -3,7 +3,7 @@
 - Beatriz Maldonado
 - Sammy Maldonado
 - Felipe Martinez
-- Carolina Galiachi
+- Carolina Diaz
 - Ricardo Ramones
 
 ## Tecnologías utilizadas
