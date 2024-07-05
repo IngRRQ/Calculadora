@@ -1,10 +1,10 @@
-## Integrantes del Proyecto:
-### Beatriz Maldonado
-### Sammy Maldonado
-### Felipe Martinez
-### Carolina Galiachi
-### Ricardo Ramones
 
+## Integrantes
+- Beatriz Maldonado
+- Sammy Maldonado
+- Felipe Martinez
+- Carolina Galiachi
+- Ricardo Ramones
 
 ## Tecnologías utilizadas
 
